@@ -21,6 +21,6 @@ Using bioinformatic tools to study the evolutionary trajectory and alterations o
 - Science Undergraduate Research Conference(SURC) ,2023                Azim Premji University, Bengaluru
 
 ## Certifications
-- Python (Basic) Certificate, HackerRank [ID: 13B12295CDF](https://www.hackerrank.com/certificates/iframe/13b12295cdf8)
+- Python (Basic) Certificate, HackerRank [ID: 13B12295CDF](https://www.hackerrank.com/certificates/13b12295cdf8)
 - Biology Meets Programming: Bioinformatics for Beginners, UC San Diego, Coursera. [ID: AYY8UPHNZM3D](https://coursera.org/share/e3c9980f93b3cb6b6c3739031ef73c54)
 - One-month International workshop on Cancer Genomics and Bioinformatics, Decode life
