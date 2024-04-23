@@ -1,8 +1,14 @@
 title: Jnana Deepthi
 logo: assets/images/WhatsApp Image 2024-04-23 at 1.21.43 PM-2.jpeg
 description: Undergraduate Biology Student
-show_downloads: true
-#linkedin: [LinkedIn](https://www.linkedin.com/in/jnana-deepthi-vishnumolakala-5a8381239/)
-<a href="https://www.linkedin.com/in/jnana-deepthi-vishnumolakala-5a8381239/">View My LinkedIn Profile</a> 
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/jnana-deepthi-vishnumolakala-5a8381239/">View My LinkedIn Profile</a> 
+
+#show_downloads: true
+
 theme: jekyll-theme-minimal
 
